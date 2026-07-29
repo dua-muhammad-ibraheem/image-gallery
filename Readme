@@ -1,0 +1,33 @@
+# Responsive Image Gallery
+
+A responsive image gallery built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Responsive Grid Layout
+- Image Hover Zoom Effect
+- Click to View Full Image
+- Previous & Next Navigation
+- Smooth Transitions
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Internship
+
+This project was created as part of the **CodeAlpha Frontend Development Internship**.
+
+## Live Demo
+
+https://dua-muhammad-ibraheem.github.io/image-gallery/
+
+## GitHub Repository
+
+https://github.com/dua-muhammad-ibraheem/image-gallery.git
+
+## Author
+
+Dua Muhammad Ibraheem
